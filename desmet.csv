@@ -1,0 +1,406 @@
+category,name,loc_type,urn,loc_lcid,loc_lang,loc_value
+activities,activity,default,ugc:activities:activity,1033,en,Activity
+activities,activity,plural,ugc:activities:activity,1033,en,Activities
+activities,adventure,default,ugc:activities:adventure,1033,en,Adventure
+activities,adventure,plural,ugc:activities:adventure,1033,en,Adventures
+activities,arcadeGame,default,ugc:activities:arcadeGame,1033,en,Arcade Games
+activities,backpacking,default,ugc:activities:backpacking,1033,en,Backpacking
+activities,ballet,default,ugc:activities:ballet,1033,en,Ballet
+activities,baseball,default,ugc:activities:baseball,1033,en,Baseball
+activities,basketball,default,ugc:activities:basketball,1033,en,Basketball
+activities,biking,default,ugc:activities:biking,1033,en,Biking
+activities,birdWatching,default,ugc:activities:birdWatching,1033,en,Bird Watching
+activities,blackjack,default,ugc:activities:blackjack,1033,en,Black Jack
+activities,boating,default,ugc:activities:boating,1033,en,Boating
+activities,bowling,default,ugc:activities:bowling,1033,en,Bowling
+activities,bungeeJumping,default,ugc:activities:bungeeJumping,1033,en,Bungee Jumping
+activities,camping,default,ugc:activities:camping,1033,en,Camping
+activities,canoeing,default,ugc:activities:canoeing,1033,en,Canoeing
+activities,caveExploring,default,ugc:activities:caveExploring,1033,en,Cave Exploring
+activities,concert,default,ugc:activities:concert,1033,en,Concert
+activities,concert,plural,ugc:activities:concert,1033,en,Concerts
+activities,coralReef,default,ugc:activities:coralReef,1033,en,Coral Reef
+activities,coralReef,plural,ugc:activities:coralReef,1033,en,Coral Reefs
+activities,crossCountrySkiing,default,ugc:activities:crossCountrySkiing,1033,en,Cross-Country Skiing
+activities,cultural,default,ugc:activities:cultural,1033,en,Cultural
+activities,culture,default,ugc:activities:culture,1033,en,Culture
+activities,dancing,default,ugc:activities:dancing,1033,en,Dancing
+activities,dining,default,ugc:activities:dining,1033,en,Dining
+activities,diving,default,ugc:activities:diving,1033,en,Diving
+activities,dolphin,default,ugc:activities:dolphin,1033,en,Dolphin
+activities,dolphin,plural,ugc:activities:dolphin,1033,en,Dolphins
+activities,ecotourism,default,ugc:activities:ecotourism,1033,en,Ecotourism
+activities,entertainment,default,ugc:activities:entertainment,1033,en,Entertainment
+activities,excursions,default,ugc:activities:excursions,1033,en,Excursions
+activities,festival,default,ugc:activities:festival,1033,en,Festival
+activities,festival,plural,ugc:activities:festival,1033,en,Festivals
+activities,fishing,default,ugc:activities:fishing,1033,en,Fishing
+activities,football,default,ugc:activities:football,1033,en,Football
+activities,gambling,default,ugc:activities:gambling,1033,en,Gambling
+activities,game,default,ugc:activities:game,1033,en,Game
+activities,game,plural,ugc:activities:game,1033,en,Games
+activities,golf,default,ugc:activities:golf,1033,en,Golf
+activities,hiking,default,ugc:activities:hiking,1033,en,Hiking
+activities,hockey,default,ugc:activities:hockey,1033,en,Hockey
+activities,horseRacing,default,ugc:activities:horseRacing,1033,en,Horse Racing
+activities,horsebackRiding,default,ugc:activities:horsebackRiding,1033,en,Horseback Riding
+activities,hunting,default,ugc:activities:hunting,1033,en,Hunting
+activities,iceSkating,default,ugc:activities:iceSkating,1033,en,Ice Skating
+activities,indoorSkiing,default,ugc:activities:indoorSkiing,1033,en,Indoor Skiing
+activities,innerTubing,default,ugc:activities:innerTubing,1033,en,Inner Tubing
+activities,jazz,default,ugc:activities:jazz,1033,en,Jazz
+activities,kayaking,default,ugc:activities:kayaking,1033,en,Kayaking
+activities,kiteSurfing,default,ugc:activities:kiteSurfing,1033,en,Kite Surfing
+activities,lazyRiver,default,ugc:activities:lazyRiver,1033,en,Lazy River
+activities,liveMusic,default,ugc:activities:liveMusic,1033,en,Live Music
+activities,mountainBiking,default,ugc:activities:mountainBiking,1033,en,Mountain Biking
+activities,mountaineering,default,ugc:activities:mountaineering,1033,en,Mountaineering
+activities,musical,default,ugc:activities:musical,1033,en,Musical
+activities,musical,plural,ugc:activities:musical,1033,en,Musicals
+activities,opera,default,ugc:activities:opera,1033,en,Opera
+activities,paddleBoarding,default,ugc:activities:paddleBoarding,1033,en,Paddle Boarding
+activities,paragliding,default,ugc:activities:paragliding,1033,en,Paragliding
+activities,parasailing,default,ugc:activities:parasailing,1033,en,Parasailing
+activities,rafting,default,ugc:activities:rafting,1033,en,Rafting
+activities,rockClimbing,default,ugc:activities:rockClimbing,1033,en,Rock Climbing
+activities,rollerskating,default,ugc:activities:rollerskating,1033,en,Roller Skating
+activities,roulette,default,ugc:activities:roulette,1033,en,Roulette
+activities,rowing,default,ugc:activities:rowing,1033,en,Rowing
+activities,running,default,ugc:activities:running,1033,en,Running
+activities,safari,default,ugc:activities:safari,1033,en,Safari
+activities,sailing,default,ugc:activities:sailing,1033,en,Sailing
+activities,segwayTour,default,ugc:activities:segwayTour,1033,en,Segway Tour
+activities,segwayTour,plural,ugc:activities:segwayTour,1033,en,Segway Tours
+activities,sharks,default,ugc:activities:sharks,1033,en,Sharks
+activities,shopping,default,ugc:activities:shopping,1033,en,Shopping
+activities,sightseeing,default,ugc:activities:sightseeing,1033,en,Sightseeing
+activities,ski,default,ugc:activities:ski,1033,en,Ski
+activities,skyDiving,default,ugc:activities:skyDiving,1033,en,Sky Diving
+activities,sledding,default,ugc:activities:sledding,1033,en,Sledding
+activities,slotMachine,default,ugc:activities:slotMachine,1033,en,Slot Machine
+activities,snorkeling,default,ugc:activities:snorkeling,1033,en,Snorkeling
+activities,snowTubing,default,ugc:activities:snowTubing,1033,en,Snow Tubing
+activities,snowboarding,default,ugc:activities:snowboarding,1033,en,Snowboarding
+activities,snowmobileRiding,default,ugc:activities:snowmobileRiding,1033,en,Snowmobile Riding
+activities,snowshoeing,default,ugc:activities:snowshoeing,1033,en,Snowshoeing
+activities,soccer,default,ugc:activities:soccer,1033,en,Soccer
+activities,spa,default,ugc:activities:spa,1033,en,Spa
+activities,spa,plural,ugc:activities:spa,1033,en,Spas
+activities,sports,default,ugc:activities:sports,1033,en,Sports
+activities,stargazing,default,ugc:activities:stargazing,1033,en,Stargazing
+activities,surfing,default,ugc:activities:surfing,1033,en,Surfing
+activities,swimming,default,ugc:activities:swimming,1033,en,Swimming
+activities,tennis,default,ugc:activities:tennis,1033,en,Tennis
+activities,theater,default,ugc:activities:theater,1033,en,Theater
+activities,tour,default,ugc:activities:tour,1033,en,Tour
+activities,tour,plural,ugc:activities:tour,1033,en,Tours
+activities,wakeboarding,default,ugc:activities:wakeboarding,1033,en,Wake Boarding
+activities,walking,default,ugc:activities:walking,1033,en,Walking
+activities,waterSkiing,default,ugc:activities:waterSkiing,1033,en,Water Skiing
+activities,whaleWatching,default,ugc:activities:whaleWatching,1033,en,Whale Watching
+activities,windSurfing,default,ugc:activities:windSurfing,1033,en,Wind Surfing
+activities,yoga,default,ugc:activities:yoga,1033,en,Yoga
+activities,ziplining,default,ugc:activities:ziplining,1033,en,Ziplining
+adjectives,adjective,default,ugc:adjectives:adjective,1033,en,Adjective
+adjectives,adjective,plural,ugc:adjectives:adjective,1033,en,Adjectives
+adjectives,familyFriendly,default,ugc:adjectives:familyFriendly,1033,en,Family Friendly
+adjectives,free,default,ugc:adjectives:free,1033,en,Free
+adjectives,friendlyPeople,default,ugc:adjectives:friendlyPeople,1033,en,Friendly People
+adjectives,help,default,ugc:adjectives:help,1033,en,Help
+adjectives,lgbtFriendly,default,ugc:adjectives:lgbtFriendly,1033,en,LGBT Friendly
+adjectives,petFriendly,default,ugc:adjectives:petFriendly,1033,en,Pet Friendly
+adjectives,sustainable,default,ugc:adjectives:sustainable,1033,en,Sustainable
+amenities,airConditioning,default,ugc:amenities:airConditioning,1033,en,Air Conditioning
+amenities,airport,default,ugc:amenities:airport,1033,en,Airport
+amenities,airport,plural,ugc:amenities:airport,1033,en,Airports
+amenities,airportTransportation,default,ugc:amenities:airportTransportation,1033,en,Airport Transportation
+amenities,allInclusive,default,ugc:amenities:allInclusive,1033,en,All Inclusive
+amenities,amenity,default,ugc:amenities:amenity,1033,en,Amenity
+amenities,amenity,plural,ugc:amenities:amenity,1033,en,Amenities
+amenities,balcony,default,ugc:amenities:balcony,1033,en,Balcony
+amenities,balcony,plural,ugc:amenities:balcony,1033,en,Balconies
+amenities,bar,default,ugc:amenities:bar,1033,en,Bars and Nightclubs
+amenities,basketballCourt,default,ugc:amenities:basketballCourt,1033,en,Basketball Court
+amenities,basketballCourt,plural,ugc:amenities:basketballCourt,1033,en,Basketball Courts
+amenities,bathroom,default,ugc:amenities:bathroom,1033,en,Bathroom
+amenities,bathroom,plural,ugc:amenities:bathroom,1033,en,Bathrooms
+amenities,breakfast,default,ugc:amenities:breakfast,1033,en,Breakfast
+amenities,checkin,default,ugc:amenities:checkin,1033,en,Checkin
+amenities,checkout,default,ugc:amenities:checkout,1033,en,Checkout
+amenities,childCare,default,ugc:amenities:childCare,1033,en,Child Care
+amenities,concierge,default,ugc:amenities:concierge,1033,en,Concierge
+amenities,concierge,plural,ugc:amenities:concierge,1033,en,Concierges
+amenities,conferenceRoom,default,ugc:amenities:conferenceRoom,1033,en,Conference Room
+amenities,conferenceRoom,plural,ugc:amenities:conferenceRoom,1033,en,Conference Rooms
+amenities,connectingRooms,default,ugc:amenities:connectingRooms,1033,en,Connecting Rooms
+amenities,dvdPlayer,default,ugc:amenities:dvdPlayer,1033,en,DVD Player
+amenities,dvdPlayer,plural,ugc:amenities:dvdPlayer,1033,en,DVD Players
+amenities,earlyCheckin,default,ugc:amenities:earlyCheckin,1033,en,Early Checkin
+amenities,elevator,default,ugc:amenities:elevator,1033,en,Elevator
+amenities,elevator,plural,ugc:amenities:elevator,1033,en,Elevators
+amenities,ferry,default,ugc:amenities:ferry,1033,en,Ferry
+amenities,ferry,plural,ugc:amenities:ferry,1033,en,Ferries
+amenities,fireplace,default,ugc:amenities:fireplace,1033,en,Fireplace
+amenities,fitnessCenter,default,ugc:amenities:fitnessCenter,1033,en,Fitness Center
+amenities,fitnessCenter,plural,ugc:amenities:fitnessCenter,1033,en,Fitness Centers
+amenities,freeAirportTransportation,default,ugc:amenities:freeAirportTransportation,1033,en,Free Airport Transportation
+amenities,freeBreakfast,default,ugc:amenities:freeBreakfast,1033,en,Free Breakfast
+amenities,freeInternet,default,ugc:amenities:freeInternet,1033,en,Free Internet
+amenities,freeParking,default,ugc:amenities:freeParking,1033,en,Free Parking
+amenities,freeWifi,default,ugc:amenities:freeWifi,1033,en,Free Wifi
+amenities,handicap,default,ugc:amenities:handicap,1033,en,Handicap
+amenities,hotTub,default,ugc:amenities:hotTub,1033,en,Hot Tub
+amenities,hotelCondition,default,ugc:amenities:hotelCondition,1033,en,Hotel Condition
+amenities,indoorPool,default,ugc:amenities:indoorPool,1033,en,Indoor Pool
+amenities,indoorPool,plural,ugc:amenities:indoorPool,1033,en,Indoor Pools
+amenities,internet,default,ugc:amenities:internet,1033,en,Internet
+amenities,kitchen,default,ugc:amenities:kitchen,1033,en,Kitchen
+amenities,kitchen,plural,ugc:amenities:kitchen,1033,en,Kitchens
+amenities,kitchenette,default,ugc:amenities:kitchenette,1033,en,Kitchenette
+amenities,kitchenette,plural,ugc:amenities:kitchenette,1033,en,Kitchenettes
+amenities,laundryFacility,default,ugc:amenities:laundryFacility,1033,en,Laundry Facility
+amenities,laundryFacility,plural,ugc:amenities:laundryFacility,1033,en,Laundry Facilities
+amenities,massage,default,ugc:amenities:massage,1033,en,Massage
+amenities,microwave,default,ugc:amenities:microwave,1033,en,Microwave
+amenities,microwave,plural,ugc:amenities:microwave,1033,en,Microwaves
+amenities,noSmokingPolicy,default,ugc:amenities:noSmokingPolicy,1033,en,No Smoking Policy
+amenities,outdoorPool,default,ugc:amenities:outdoorPool,1033,en,Outdoor Pool
+amenities,outdoorPool,plural,ugc:amenities:outdoorPool,1033,en,Outdoor Pools
+amenities,parking,default,ugc:amenities:parking,1033,en,Parking
+amenities,pool,default,ugc:amenities:pool,1033,en,Swimming Pool
+amenities,pool,plural,ugc:amenities:pool,1033,en,Swimming Pools
+amenities,poolsideBar,default,ugc:amenities:poolsideBar,1033,en,Poolside Bar
+amenities,poolsideBar,plural,ugc:amenities:poolsideBar,1033,en,Poolside Bars
+amenities,publicTransit,default,ugc:amenities:publicTransit,1033,en,Public Transit
+amenities,refrigerator,default,ugc:amenities:refrigerator,1033,en,Refrigerator
+amenities,refrigerator,plural,ugc:amenities:refrigerator,1033,en,Refrigerators
+amenities,roomBed,default,ugc:amenities:roomBed,1033,en,Room Bed
+amenities,roomBed,plural,ugc:amenities:roomBed,1033,en,Room Beds
+amenities,roomService,default,ugc:amenities:roomService,1033,en,Room Service
+amenities,sauna,default,ugc:amenities:sauna,1033,en,Sauna
+amenities,shuttle,default,ugc:amenities:shuttle,1033,en,Shuttle
+amenities,shuttle,plural,ugc:amenities:shuttle,1033,en,Shuttles
+amenities,smoking,default,ugc:amenities:smoking,1033,en,Smoking
+amenities,sofaBed,default,ugc:amenities:sofaBed,1033,en,Sofa Bed
+amenities,spaTub,default,ugc:amenities:spaTub,1033,en,Spa Tub
+amenities,steamRoom,default,ugc:amenities:steamRoom,1033,en,Steam Room
+amenities,steamRoom,plural,ugc:amenities:steamRoom,1033,en,Steam Rooms
+amenities,suite,default,ugc:amenities:suite,1033,en,Suite
+amenities,suite,plural,ugc:amenities:suite,1033,en,Suites
+amenities,swimupBar,default,ugc:amenities:swimupBar,1033,en,Swim Up Bar
+amenities,swimupBar,plural,ugc:amenities:swimupBar,1033,en,Swim Up Bars
+amenities,taxi,default,ugc:amenities:taxi,1033,en,Taxi
+amenities,tennisCourt,default,ugc:amenities:tennisCourt,1033,en,Tennis Court
+amenities,tennisCourt,plural,ugc:amenities:tennisCourt,1033,en,Tennis Courts
+amenities,transport,default,ugc:amenities:transport,1033,en,Transport
+amenities,transportationServices,default,ugc:amenities:transportationServices,1033,en,Transportation Services
+amenities,washerDryer,default,ugc:amenities:washerDryer,1033,en,Washer Dryer
+amenities,wifi,default,ugc:amenities:wifi,1033,en,Wifi
+attributes,attribute,default,ugc:attributes:attribute,1033,en,Attribute
+attributes,attribute,plural,ugc:attributes:attribute,1033,en,Attributes
+attributes,cleanliness,default,ugc:attributes:cleanliness,1033,en,Cleanliness
+attributes,location,default,ugc:attributes:location,1033,en,Location
+attributes,location,plural,ugc:attributes:location,1033,en,Locations
+attributes,precautionaryMeasures,default,ugc:attributes:precautionaryMeasures,1033,en,PrecautionaryMeasures
+attributes,recommend,default,ugc:attributes:recommend,1033,en,Recommend
+attributes,roomCleanliness,default,ugc:attributes:roomCleanliness,1033,en,Room Cleanliness
+attributes,roomComfort,default,ugc:attributes:roomComfort,1033,en,Room Comfort
+attributes,roomNoise,default,ugc:attributes:roomNoise,1033,en,Room Noise
+attributes,roomSize,default,ugc:attributes:roomSize,1033,en,Room Size
+attributes,safety,default,ugc:attributes:safety,1033,en,Safety
+attributes,staff,default,ugc:attributes:staff,1033,en,Staff
+attributes,value,default,ugc:attributes:value,1033,en,Value
+bookings,booking,default,ugc:bookings:booking,1033,en,booking
+bookings,booking,plural,ugc:bookings:booking,1033,en,bookings
+bookings,bookingEvent,default,ugc:bookings:bookingEvent,1033,en,BookingEvent
+bookings,payment,default,ugc:bookings:payment,1033,en,payment
+foodAndDrinks,beer,default,ugc:foodAndDrinks:beer,1033,en,Beer
+foodAndDrinks,cheese,default,ugc:foodAndDrinks:cheese,1033,en,Cheese
+foodAndDrinks,chocolate,default,ugc:foodAndDrinks:chocolate,1033,en,Chocolate
+foodAndDrinks,chocolate,plural,ugc:foodAndDrinks:chocolate,1033,en,Chocolates
+foodAndDrinks,cocktail,default,ugc:foodAndDrinks:cocktail,1033,en,Cocktail
+foodAndDrinks,cocktail,plural,ugc:foodAndDrinks:cocktail,1033,en,Cocktails
+foodAndDrinks,coffee,default,ugc:foodAndDrinks:coffee,1033,en,Coffee
+foodAndDrinks,foodAndDrink,default,ugc:foodAndDrinks:foodAndDrink,1033,en,FoodAndDrink
+foodAndDrinks,foodAndDrink,plural,ugc:foodAndDrinks:foodAndDrink,1033,en,FoodAndDrinks
+foodAndDrinks,seafood,default,ugc:foodAndDrinks:seafood,1033,en,Seafood
+health,epidemic,default,ugc:health:epidemic,1033,en,Epidemic
+health,health,default,ugc:health:health,1033,en,Health
+health,health,plural,ugc:health:health,1033,en,Health
+health,lockdown,default,ugc:health:lockdown,1033,en,Lockdown
+health,medical,default,ugc:health:medical,1033,en,Medical
+nature,beach,default,ugc:nature:beach,1033,en,Beach
+nature,beach,plural,ugc:nature:beach,1033,en,Beaches
+nature,blackSandBeach,default,ugc:nature:blackSandBeach,1033,en,Black Sand Beach
+nature,blackSandBeach,plural,ugc:nature:blackSandBeach,1033,en,Black Sand Beaches
+nature,clearWaterBeach,default,ugc:nature:clearWaterBeach,1033,en,Clear Water Beach
+nature,clearWaterBeach,plural,ugc:nature:clearWaterBeach,1033,en,Clear Water Beaches
+nature,countryside,default,ugc:nature:countryside,1033,en,Countryside
+nature,desert,default,ugc:nature:desert,1033,en,Desert
+nature,desert,plural,ugc:nature:desert,1033,en,Deserts
+nature,familyBeach,default,ugc:nature:familyBeach,1033,en,Family Beach
+nature,familyBeach,plural,ugc:nature:familyBeach,1033,en,Family Beaches
+nature,flower,default,ugc:nature:flower,1033,en,Flower
+nature,flower,plural,ugc:nature:flower,1033,en,Flowers
+nature,forest,default,ugc:nature:forest,1033,en,Forest
+nature,forest,plural,ugc:nature:forest,1033,en,Forests
+nature,glacier,default,ugc:nature:glacier,1033,en,Glacier
+nature,glacier,plural,ugc:nature:glacier,1033,en,Glaciers
+nature,hilly,default,ugc:nature:hilly,1033,en,Hilly
+nature,hotSpring,default,ugc:nature:hotSpring,1033,en,Hot Spring
+nature,hotSpring,plural,ugc:nature:hotSpring,1033,en,Hot Springs
+nature,island,default,ugc:nature:island,1033,en,Island
+nature,island,plural,ugc:nature:island,1033,en,Islands
+nature,jungle,default,ugc:nature:jungle,1033,en,Jungle
+nature,jungle,plural,ugc:nature:jungle,1033,en,Jungles
+nature,lake,default,ugc:nature:lake,1033,en,Lake
+nature,lake,plural,ugc:nature:lake,1033,en,Lakes
+nature,landscape,default,ugc:nature:landscape,1033,en,Landscape
+nature,mineralSpring,default,ugc:nature:mineralSpring,1033,en,Mineral Spring
+nature,mineralSpring,plural,ugc:nature:mineralSpring,1033,en,Mineral Springs
+nature,mountain,default,ugc:nature:mountain,1033,en,Mountain
+nature,mountain,plural,ugc:nature:mountain,1033,en,Mountains
+nature,nature,default,ugc:nature:nature,1033,en,Nature
+nature,northernLights,default,ugc:nature:northernLights,1033,en,Northern Lights
+nature,nudeBeach,default,ugc:nature:nudeBeach,1033,en,Nude Beach
+nature,nudeBeach,plural,ugc:nature:nudeBeach,1033,en,Nude Beaches
+nature,ocean,default,ugc:nature:ocean,1033,en,Ocean
+nature,ocean,plural,ugc:nature:ocean,1033,en,Oceans
+nature,pebbleBeach,default,ugc:nature:pebbleBeach,1033,en,Pebble Beach
+nature,pebbleBeach,plural,ugc:nature:pebbleBeach,1033,en,Pebble Beaches
+nature,rainforest,default,ugc:nature:rainforest,1033,en,Rainforest
+nature,rainforest,plural,ugc:nature:rainforest,1033,en,Rainforests
+nature,river,default,ugc:nature:river,1033,en,River
+nature,river,plural,ugc:nature:river,1033,en,Rivers
+nature,rockyBeach,default,ugc:nature:rockyBeach,1033,en,Rocky Beach
+nature,rockyBeach,plural,ugc:nature:rockyBeach,1033,en,Rocky Beaches
+nature,sandBeach,default,ugc:nature:sandBeach,1033,en,Sand Beach
+nature,sandBeach,plural,ugc:nature:sandBeach,1033,en,Sand Beaches
+nature,scenery,default,ugc:nature:scenery,1033,en,Scenary
+nature,sea,default,ugc:nature:sea,1033,en,Sea
+nature,sea,plural,ugc:nature:sea,1033,en,Seas
+nature,sunrise,default,ugc:nature:sunrise,1033,en,Sunrise
+nature,sunset,default,ugc:nature:sunset,1033,en,Sunset
+nature,sunset,plural,ugc:nature:sunset,1033,en,Sunsets
+nature,volcano,default,ugc:nature:volcano,1033,en,Volcano
+nature,volcano,plural,ugc:nature:volcano,1033,en,Volcanoes
+nature,waterfall,default,ugc:nature:waterfall,1033,en,Waterfall
+nature,waterfall,plural,ugc:nature:waterfall,1033,en,Waterfalls
+nature,whiteSandBeach,default,ugc:nature:whiteSandBeach,1033,en,White Sand Beach
+nature,whiteSandBeach,plural,ugc:nature:whiteSandBeach,1033,en,White Sand Beaches
+nature,wildlife,default,ugc:nature:wildlife,1033,en,Wildlife
+placesOfInterest,amusementPark,default,ugc:placesOfInterest:amusementPark,1033,en,Amusement Park
+placesOfInterest,amusementPark,plural,ugc:placesOfInterest:amusementPark,1033,en,Amusement Parks
+placesOfInterest,aquarium,default,ugc:placesOfInterest:aquarium,1033,en,Aquarium
+placesOfInterest,aquarium,plural,ugc:placesOfInterest:aquarium,1033,en,Aquariums
+placesOfInterest,arcade,default,ugc:placesOfInterest:arcade,1033,en,Arcade
+placesOfInterest,architecture,default,ugc:placesOfInterest:architecture,1033,en,Architecture
+placesOfInterest,beachHotel,default,ugc:placesOfInterest:beachHotel,1033,en,Beach Hotel
+placesOfInterest,beachShore,default,ugc:placesOfInterest:beachShore,1033,en,Beach Shore
+placesOfInterest,beachShore,plural,ugc:placesOfInterest:beachShore,1033,en,Beach Shores
+placesOfInterest,beachView,default,ugc:placesOfInterest:beachView,1033,en,Beach View
+placesOfInterest,botanicalGarden,default,ugc:placesOfInterest:botanicalGarden,1033,en,Botanical Garden
+placesOfInterest,botanicalGarden,plural,ugc:placesOfInterest:botanicalGarden,1033,en,Botanical Gardens
+placesOfInterest,boutiqueHotel,default,ugc:placesOfInterest:boutiqueHotel,1033,en,Boutique Hotel
+placesOfInterest,cafe,default,ugc:placesOfInterest:cafe,1033,en,Cafe
+placesOfInterest,cafe,plural,ugc:placesOfInterest:cafe,1033,en,Cafes
+placesOfInterest,casino,default,ugc:placesOfInterest:casino,1033,en,Casino
+placesOfInterest,casino,plural,ugc:placesOfInterest:casino,1033,en,Casinos
+placesOfInterest,castle,default,ugc:placesOfInterest:castle,1033,en,Caste
+placesOfInterest,castle,plural,ugc:placesOfInterest:castle,1033,en,Castles
+placesOfInterest,cathedral,default,ugc:placesOfInterest:cathedral,1033,en,Cathedral
+placesOfInterest,cathedral,plural,ugc:placesOfInterest:cathedral,1033,en,Cathedrals
+placesOfInterest,chinatown,default,ugc:placesOfInterest:chinatown,1033,en,Chinatown
+placesOfInterest,church,default,ugc:placesOfInterest:church,1033,en,Church
+placesOfInterest,church,plural,ugc:placesOfInterest:church,1033,en,Churches
+placesOfInterest,gallery,default,ugc:placesOfInterest:gallery,1033,en,Gallery
+placesOfInterest,gallery,plural,ugc:placesOfInterest:gallery,1033,en,Galleries
+placesOfInterest,garden,default,ugc:placesOfInterest:garden,1033,en,Garden
+placesOfInterest,garden,plural,ugc:placesOfInterest:garden,1033,en,Gardens
+placesOfInterest,golfCourse,default,ugc:placesOfInterest:golfCourse,1033,en,Golf Course
+placesOfInterest,golfHotel,default,ugc:placesOfInterest:golfHotel,1033,en,Golf Hotel
+placesOfInterest,hotel,default,ugc:placesOfInterest:hotel,1033,en,Hotel
+placesOfInterest,hotel,plural,ugc:placesOfInterest:hotel,1033,en,Hotels
+placesOfInterest,lakeView,default,ugc:placesOfInterest:lakeView,1033,en,Lake View
+placesOfInterest,library,default,ugc:placesOfInterest:library,1033,en,Library
+placesOfInterest,library,plural,ugc:placesOfInterest:library,1033,en,Libraries
+placesOfInterest,luxuryHotel,default,ugc:placesOfInterest:luxuryHotel,1033,en,Luxury Hotel
+placesOfInterest,mall,default,ugc:placesOfInterest:mall,1033,en,Mall
+placesOfInterest,mall,plural,ugc:placesOfInterest:mall,1033,en,Malls
+placesOfInterest,marina,default,ugc:placesOfInterest:marina,1033,en,Marina
+placesOfInterest,market,default,ugc:placesOfInterest:market,1033,en,Market
+placesOfInterest,market,plural,ugc:placesOfInterest:market,1033,en,Markets
+placesOfInterest,monument,default,ugc:placesOfInterest:monument,1033,en,Monument
+placesOfInterest,monument,plural,ugc:placesOfInterest:monument,1033,en,Monuments
+placesOfInterest,mountainView,default,ugc:placesOfInterest:mountainView,1033,en,Mountain View
+placesOfInterest,museum,default,ugc:placesOfInterest:museum,1033,en,Museum
+placesOfInterest,museum,plural,ugc:placesOfInterest:museum,1033,en,Museums
+placesOfInterest,naturalPark,default,ugc:placesOfInterest:naturalPark,1033,en,Natural Park
+placesOfInterest,naturalPark,plural,ugc:placesOfInterest:naturalPark,1033,en,Natural Parks
+placesOfInterest,oceanView,default,ugc:placesOfInterest:oceanView,1033,en,Ocean View
+placesOfInterest,placeOfInterest,default,ugc:placesOfInterest:placeOfInterest,1033,en,Place of Interest
+placesOfInterest,placeOfInterest,plural,ugc:placesOfInterest:placeOfInterest,1033,en,Places of Interest
+placesOfInterest,port,default,ugc:placesOfInterest:port,1033,en,Port
+placesOfInterest,restaurant,default,ugc:placesOfInterest:restaurant,1033,en,Restaurant
+placesOfInterest,restaurant,plural,ugc:placesOfInterest:restaurant,1033,en,Restaurants
+placesOfInterest,riverView,default,ugc:placesOfInterest:riverView,1033,en,River View
+placesOfInterest,rollerCoaster,default,ugc:placesOfInterest:rollerCoaster,1033,en,Roller Coaster
+placesOfInterest,rollerCoaster,plural,ugc:placesOfInterest:rollerCoaster,1033,en,Roller Coasters
+placesOfInterest,ruins,default,ugc:placesOfInterest:ruins,1033,en,Ruins
+placesOfInterest,shop,default,ugc:placesOfInterest:shop,1033,en,Shop
+placesOfInterest,shop,plural,ugc:placesOfInterest:shop,1033,en,Shops
+placesOfInterest,skiHotel,default,ugc:placesOfInterest:skiHotel,1033,en,Ski Hotel
+placesOfInterest,skyscraper,default,ugc:placesOfInterest:skyscraper,1033,en,Skyscraper
+placesOfInterest,skyscraper,plural,ugc:placesOfInterest:skyscraper,1033,en,Skyscrapers
+placesOfInterest,smallTown,default,ugc:placesOfInterest:smallTown,1033,en,Small Town
+placesOfInterest,smallTown,plural,ugc:placesOfInterest:smallTown,1033,en,Small Towns
+placesOfInterest,spaHotel,default,ugc:placesOfInterest:spaHotel,1033,en,Spa Hotel
+placesOfInterest,statue,default,ugc:placesOfInterest:statue,1033,en,Statue
+placesOfInterest,statue,plural,ugc:placesOfInterest:statue,1033,en,Statues
+placesOfInterest,temple,default,ugc:placesOfInterest:temple,1033,en,Temple
+placesOfInterest,temple,plural,ugc:placesOfInterest:temple,1033,en,Temples
+placesOfInterest,themePark,default,ugc:placesOfInterest:themePark,1033,en,Theme Park
+placesOfInterest,themePark,plural,ugc:placesOfInterest:themePark,1033,en,Theme Parks
+placesOfInterest,unescoSite,default,ugc:placesOfInterest:unescoSite,1033,en,UNESCO Site
+placesOfInterest,unescoSite,plural,ugc:placesOfInterest:unescoSite,1033,en,UNESCO sites
+placesOfInterest,university,default,ugc:placesOfInterest:university,1033,en,Univiersity
+placesOfInterest,university,plural,ugc:placesOfInterest:university,1033,en,Universities
+placesOfInterest,view,default,ugc:placesOfInterest:view,1033,en,View
+placesOfInterest,vineyard,default,ugc:placesOfInterest:vineyard,1033,en,Vineyard
+placesOfInterest,vineyard,plural,ugc:placesOfInterest:vineyard,1033,en,Vineyards
+placesOfInterest,waterPark,default,ugc:placesOfInterest:waterPark,1033,en,Water Park
+placesOfInterest,waterPark,plural,ugc:placesOfInterest:waterPark,1033,en,Water Parks
+placesOfInterest,waterSlide,default,ugc:placesOfInterest:waterSlide,1033,en,Water Slide
+placesOfInterest,waterSlide,plural,ugc:placesOfInterest:waterSlide,1033,en,Water Slides
+placesOfInterest,weddingHotel,default,ugc:placesOfInterest:weddingHotel,1033,en,Wedding Hotel
+placesOfInterest,winery,default,ugc:placesOfInterest:winery,1033,en,Winery
+placesOfInterest,winery,plural,ugc:placesOfInterest:winery,1033,en,Wineries
+placesOfInterest,wineryHotel,default,ugc:placesOfInterest:wineryHotel,1033,en,Winery Hotel
+placesOfInterest,zoo,default,ugc:placesOfInterest:zoo,1033,en,Zoo
+sentiments,ownerSentiment,default,ugc:sentiments:ownerSentiment,1033,en,ownerSentiment
+sentiments,sentiment,default,ugc:sentiments:sentiment,1033,en,Sentiment
+sentiments,sentiment,plural,ugc:sentiments:sentiment,1033,en,Sentiments
+sentiments,travelerSentiment,default,ugc:sentiments:travelerSentiment,1033,en,travelerSentiment
+themes,archaeology,default,ugc:themes:archaeology,1033,en,Archaelogy
+themes,art,default,ugc:themes:art,1033,en,Art
+themes,boutique,default,ugc:themes:boutique,1033,en,Boutique
+themes,budget,default,ugc:themes:budget,1033,en,Budget
+themes,business,default,ugc:themes:business,1033,en,Business
+themes,family,default,ugc:themes:family,1033,en,Family
+themes,family,plural,ugc:themes:family,1033,en,Families
+themes,green,default,ugc:themes:green,1033,en,Green
+themes,historical,default,ugc:themes:historical,1033,en,Historical
+themes,lifestyle,default,ugc:themes:lifestyle,1033,en,Lifestyle
+themes,luxury,default,ugc:themes:luxury,1033,en,Luxury
+themes,recreation,default,ugc:themes:recreation,1033,en,Recreation
+themes,relaxing,default,ugc:themes:relaxing,1033,en,Relaxing
+themes,romantic,default,ugc:themes:romantic,1033,en,Romantic
+themes,secluded,default,ugc:themes:secluded,1033,en,Secluded
+themes,theme,default,ugc:themes:theme,1033,en,Theme
+themes,theme,plural,ugc:themes:theme,1033,en,Themes
+themes,trendy,default,ugc:themes:trendy,1033,en,Trendy
+themes,urban,default,ugc:themes:urban,1033,en,Urban
+themes,wedding,default,ugc:themes:wedding,1033,en,Wedding
+weather,sunnyWeather,default,ugc:weather:sunnyWeather,1033,en,Sunny Weather
+weather,tropical,default,ugc:weather:tropical,1033,en,Tropical
+weather,weather,default,ugc:weather:weather,1033,en,Weather
